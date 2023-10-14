@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jevinuci
 - 👀 I’m interested in buying/selling sneakers.
-- 🌱 I’m currently learning c++ and assembly.
+- 🌱 I’m currently learning web apps.
 - 💞️ I’m looking to collaborate on nothing atm.
 - 📫 How to reach me kevinp7@uci.edu.
 
